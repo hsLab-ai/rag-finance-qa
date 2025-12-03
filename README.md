@@ -62,7 +62,7 @@ Ask questions such as:
 
 The system retrieves relevant text chunks and generates an answer based on the documents.
 
-![RAG Finance QA UI](images/rag-UI.png)
+![RAG Finance QA UI](images/rag_UI.png)
 
 
 ---
